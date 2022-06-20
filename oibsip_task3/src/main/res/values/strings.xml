@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="value1">Value 1:</string>
+    <string name="value2">Value 2:</string>
+    <string name="result">The result is:</string>
+    <string name="backspace"><![CDATA[<<]]></string>
+    <string name="syntaxError">Syntax error!</string>
+    <string name="divisionByZero">Invalid division by zero!</string>
+    <string name="completeCalc">Complete</string>
+    <string name="simpleCalc">Simple</string>
+    <string name="fillFields">Fill both fields with numbers!</string>
+    <string name="error">Error!</string>
+    <string name="mainActivitytitle">SimpleCalc</string>
+    <string name="secondaryActivityTitle">CompleteCalc</string>
+</resources>
